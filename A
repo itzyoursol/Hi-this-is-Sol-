@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hi, it's Sol</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header class="header">
+        <h1>Hi, it's Sol</h1>
+        <p>Welcome to my personal space on the web!</p>
+    </header>
+
+    <section class="intro"
+        <p class="animated-text">I'm passionate about [your interests or profession].</p>
+        <p>Here, you'll find my projects, ideas, and stories. Let's connect!</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Sol. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
